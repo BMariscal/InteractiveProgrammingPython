@@ -1,9 +1,13 @@
 <h3>InteractiveProgrammingPython: Python 2</h3>
 <h4>An Introduction to Interactive Programming in Python (Part 1): Rice Unversity MOOC offered at:</h4>
 <h5>https://www.coursera.org/learn/interactive-python-1/home/welcome</h5>
-<a href="http://www.codeskulptor.org/docs.html#tabs-Python"> More info on CodeSkulptor, a browser-based programming environment
+
+  * <a href="http://www.codeskulptor.org/docs.html#tabs-Python"> More info about CodeSkulptor, a browser-based programming environment
 for Python that's used in this course.</a>
+
 <br>
+
+
 
   Syllabus
   Week 0 - Statements, expressions, variables 
