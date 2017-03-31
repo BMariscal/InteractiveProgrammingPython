@@ -1,6 +1,7 @@
 <h3>InteractiveProgrammingPython: Python 2</h3>
 <h4>An Introduction to Interactive Programming in Python (Part 1): Rice Unversity MOOC offered at:</h4>
-  *  [Course Link](https://www.coursera.org/learn/interactive-python-1/home/welcome)
+
+ * <a href="https://www.coursera.org/learn/interactive-python-1/home/welcome"> Link to Coursera course.</a>
 
   * <a href="http://www.codeskulptor.org/docs.html#tabs-Python"> More info about CodeSkulptor, a browser-based programming environment
 for Python that's used in this course.</a>
