@@ -4,7 +4,7 @@
  * <a href="https://www.coursera.org/learn/interactive-python-1/home/welcome"> Link to Coursera course.</a>
 
   * <a href="http://www.codeskulptor.org/docs.html#tabs-Python"> More info about CodeSkulptor, a browser-based programming environment
-for Python that's used in this course.</a>
+for Python used in this course.</a>
 
 <br>
 
