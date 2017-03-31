@@ -3,7 +3,7 @@
 <h5>https://www.coursera.org/learn/interactive-python-1/home/welcome</h5>
 <a href="http://www.codeskulptor.org/docs.html#tabs-Python"> More info on CodeSkulptor, a browser-based programming environment
 for Python that's used in this course.</a>
-
+<br>
 
   Syllabus
   Week 0 - Statements, expressions, variables 
